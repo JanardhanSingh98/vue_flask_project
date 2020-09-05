@@ -38,7 +38,7 @@ $ npm run lint
 
 # Backend Setup
 
-- `frontend` folder contains Flask backend part:
+- `root` folder contains Flask backend part:
 
 ```shell
 $ pip3 install requirments.txt
